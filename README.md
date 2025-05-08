@@ -30,7 +30,7 @@ A Spring Boot project demonstrating Clean Architecture for a basic Role-Based Ac
 ### Run the Application
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd RBAC
+git clone https://github.com/muhaimeen90/User-and-Role-Management
+cd User-and-Role-Management
 mvn clean install
 mvn spring-boot:run
